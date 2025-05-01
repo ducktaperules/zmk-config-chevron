@@ -1,0 +1,13 @@
+file_format: "1"
+id: chevron
+name: Chevron
+type: shield
+url: https://github.com/ducktaperules/zmk-config-chevron
+requires: [xiao_nrf52840]
+exposes: 
+features:
+  - keys
+  - studio
+siblings:
+  - chevron_left
+  - chevron_right
