@@ -20,6 +20,8 @@
 ---
 include:
   - board: seeeduino_xiao_ble
-    shield: chevron_left
+    shield: chevron_left rgbled_adapter
   - board: seeeduino_xiao_ble
-    shield: chevron_right
+    shield: chevron_right rgbled_adapter
+  - board: seeeduino_xiao_ble
+    shield: settings_reset
